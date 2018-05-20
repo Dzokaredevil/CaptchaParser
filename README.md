@@ -1,6 +1,6 @@
 # CaptchaParser
 
-A simple Captcha parsing algorithm developed for VITacademics.
+A simple Captcha parsing algorithm developed.
 
 ## Quickstart
 
