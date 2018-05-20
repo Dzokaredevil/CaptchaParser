@@ -68,7 +68,7 @@ echo $captcha->getCaptcha("captcha.bmp");
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? If your problem or idea is not addressed yet, [please open a new issue](https://github.com/karthikb351/CaptchaParser/issues).
+Have a bug or a feature request? If your problem or idea is not addressed yet, [please open a new issue](https://github.com/Dzokaredevil/CaptchaParser/issues).
 
 ## Contributing and License
 
